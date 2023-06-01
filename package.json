@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/taishiyamada0327/typescript-tutolial/issues"
   },
-  "homepage": "https://github.com/taishiyamada0327/typescript-tutolial#readme"
+  "homepage": "https://github.com/taishiyamada0327/typescript-tutolial#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
